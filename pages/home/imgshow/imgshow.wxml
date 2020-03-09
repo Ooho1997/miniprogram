@@ -1,0 +1,16 @@
+<!--pages/home/imgshow/imgshow.wxml-->
+<view id="imgsection">
+  <view class="title">小程序显示图片</view>
+  <view class="imglist">
+    <image class="imgicon" src="https://qichen-1257877489.cos.ap-beijing.myqcloud.com/WechatIMG719.jpeg" mode="widthFix"></image>
+  </view>
+  <view class="imglist">
+    <image class="imgitem" src="https://hackwork.oss-cn-shanghai.aliyuncs.com/lesson/weapp/4/weapp.jpg" mode="widthFix"></image>
+  </view>
+  <view class="imglist">
+    <image class="imgfull" mode="center" src="https://tcb-1251009918.cos.ap-guangzhou.myqcloud.com/background.png"></image>
+  </view>
+  <view class="imglist">
+    <image class="circle" mode="widthFix" src="https://hackwork.oss-cn-shanghai.aliyuncs.com/lesson/weapp/4/logo.jpg"></image>
+  </view>
+</view>
