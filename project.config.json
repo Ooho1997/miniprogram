@@ -33,13 +33,56 @@
 			"current": -1,
 			"list": []
 		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
-		"miniprogram": {
+		"gamePlugin": {
 			"current": -1,
 			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/partner/partner",
+					"pathName": "pages/partner/partner",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/gradient/gradient",
+					"pathName": "pages/gradient/gradient",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/filter/filter",
+					"pathName": "pages/filter/filter",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/transform/transform",
+					"pathName": "pages/transform/transform",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/transition/transition",
+					"pathName": "pages/transition/transition",
+					"scene": null
+				}
+			]
 		}
 	}
 }

@@ -4,7 +4,12 @@
     "pages/home/imgshow/imgshow",
     "pages/list/list",
     "pages/partner/partner",
-    "pages/more/more"
+    "pages/more/more",
+    "pages/gradient/gradient",
+    "pages/filter/filter",
+    "pages/transform/transform",
+    "pages/transition/transition"
+
   ],
   "window": {
     "backgroundTextStyle": "dark",
@@ -13,22 +18,25 @@
     "navigationBarTextStyle": "white"
   },
   "style": "v2",
-  "tabBar":{
-    "list":[{
-      "pagePath":"pages/home/home",
-      "text":"首页"
-    },
-    {
-      "pagePath":"pages/list/list",
-      "text":"活动"
-    },
-    {
-      "pagePath": "pages/partner/partner",
-      "text": "伙伴"
-    },
-    {
-      "pagePath": "pages/more/more",
-      "text": "更多"
-    }]
-  }
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "活动"
+      },
+      {
+        "pagePath": "pages/partner/partner",
+        "text": "伙伴"
+      },
+      {
+        "pagePath": "pages/more/more",
+        "text": "更多"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
 }

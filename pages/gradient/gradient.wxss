@@ -1,0 +1,6 @@
+/* pages/gradient/gradient.wxss */
+.gradient-display{
+background-image: linear-gradient(19deg, rgb(33, 212, 253) 0%, rgb(183, 33, 255) 100%);
+  width: 100vw;
+  height: 100vh;
+  }
